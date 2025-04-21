@@ -1,0 +1,450 @@
+Graduate School Application Load into Banner
+Run Date 05/16/2022
+ 
+                                   
+407518694 / Asaad,Mohamed / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / NE-MNE-OL / NUCL / 2627
+  College 1 loaded: SY0001 Tishreen University-Syria / 09011999-12012004 /  / BACH / 03012005
+  Application Inserted Into Holding Tables
+                                   
+635520328 / Asaro,Giovanni / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ECE-MSECE-OL / ECEN / 2547
+  College 1 loaded: 002906 Temple University/Phila-PA / 08012015-12012019 / 3.48 / BACH / 12012019
+  Application Inserted Into Holding Tables
+                                   
+151860180 / Ashaba,Nancy / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMTE-MBA-HY / MEXM / 2519
+  ** College 1 No Code - Not Loaded : 000000 Ndejje University
+  ** College 2 No Code - Not Loaded : 000000 YMCA  Comprehensive Institute
+  ** College 3 No Code - Not Loaded : 000000 Masheruka Secondary School
+  Application Inserted Into Holding Tables
+                                   
+517526709 / Baker,Zachary / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE-OL / CIVL / 2546
+  ** College GPA 1 Truncated : US4115 / 3.756
+  College 1 loaded: US4115 Univ of Minnesota Twin Cities / 02012014-05012021 / 3.75 / BACH / 05012021
+  College 2 loaded: 006024 Anoka-Ramsey Cmty College-MN / 09012017-05012018 / 3.33 / NOD / 
+  College 3 loaded: 001878 Viterbo Univ La Crosse-WI / 09012016-05012017 / 3.75 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+078676347 / Bangur,Siddhant / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MBA-OL / MGMT / 2564
+  ** College GPA 1 Truncated : 001324 / 3.809
+  College 1 loaded: 001324 Indiana University Bloomington / 08012017-05012021 / 3.8 / BACH / 05012021
+  Application Inserted Into Holding Tables
+                                   
+455125584 / Chadwick,Alyssa / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE-OL / CIVL / 2546
+  College 1 loaded: 003911 Univ of Massachusetts/Lowell / 07012020-07012022 / 2.6 / NOD / 
+  College 2 loaded: 003917 Univ of Massachusetts/Amherst / 09012012-05012016 / 2.95 / BACH / 05012016
+  Application Inserted Into Holding Tables
+                                   
+675700591 / Clayton,Jonah / 0030989782 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0030989782
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MS / HRMM / 1531
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+191778761 / Collins,Matthew / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / TLI-MS-OL / TLIN / 2524
+  College 1 loaded: 006140 Amberton / 09012016-06012017 / 3.25 / NOD / 
+  College 2 loaded: 002760 Rochester In / 09012012-12012014 / 3.34 / BACH / 12012014
+  College 3 loaded: 002429 Monroe C / 12012011-06012014 / 3.12 / ASOC / 06012012
+  Application Inserted Into Holding Tables
+                                   
+047184145 / Dolezalek,Emily / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ECE-MSECE-OL / ECEN / 2547
+  College 1 loaded: 006110 Univ of St Thomas-MN / 08012018-05012021 / 4 / BACH / 05012021
+  College 2 loaded: 006489 Un Of Northwestern St Paul-MN / 02012018-05012018 / 4 / NOD / 
+  College 3 loaded: 006038 Bethel Univ St Paul-MN / 08012017-05012018 / 4 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+875307030 / Echevarria,Naia / 0031537796
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031537796
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE / CIVL / 2548
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+136555219 / Edwards,Aniya / 0030360230
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0030360230
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE / CIVL / 2548
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  ** College 2 Purdue - Not Loaded : 001638 Purdue Univ Calumet Hammond-IN
+  Application Inserted Into Holding Tables
+                                   
+743701994 / Ghose,Alyssa / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / PUBH-MHA-OL / PUBH / 2605
+  College 1 loaded: 004834 University of California Davis / 09012017-06012021 / 3.5 / BACH / 06012021
+  Application Inserted Into Holding Tables
+                                   
+754506854 / Giachini,Gabriella / 0031614711
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031614711
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+593219735 / Grorud,Jesse / 0031393283
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031393283
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+123730825 / Holtmann,Benjamin / 0031500087
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031500087
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+650419458 / Horlacher,Jessica / 0017326759
+  Continuing / Reentry / (GR)
+  * PUID Found : 0017326759
+  Camp/Prgm/Major/Rule Assigned: PWL / EDST-ND / EDST / 1133
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  ** College 2 Purdue - Not Loaded : 001325 Indiana Purdue Univ/Indpls
+  ** College 3 Purdue - Not Loaded : 001325 Indiana Purdue Univ/Indpls
+  ** College GPA 2 Truncated : 001325 / 3.925
+  ** College GPA 3 Truncated : 001325 / 3.138
+  Application Inserted Into Holding Tables
+                                   
+664596547 / Islam,Morsedul / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME-OL / MECH / 2557
+  Area of Spec/Conc added to record: PPME / 20062
+  College 1 loaded: 002083 City College/CUNY-NY / 08012018-06012021 / 3.58 / BACH / 06012021
+  College 2 loaded: 002246 La Guardia Cmty Coll/CUNY-NY / 03012015-06012018 / 3.87 / ASOC / 06012018
+  Application Inserted Into Holding Tables
+                                   
+042935404 / Jha,Aishwarya / 
+  New First Time / New First Time / (GB)
+  Camp/Prgm/Major/Rule Assigned: PWL / IDE-MS / ENMG / 212
+  Area of Spec/Conc added to record: ENMP / 21779
+  ** College 1 No Code - Not Loaded : 000000 Sandip University Nashik
+  Application Inserted Into Holding Tables
+                                   
+142925410 / Kirk,Aaron / 
+  New First Time / Current or Former Undergrad / (GA)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ECON-MS-OL / ECON / 2510
+  ** College 3 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  ** College GPA 1 Truncated : 006877 / 3.929
+  College 1 loaded: 006877 Univ of Nebraska/Lincoln / 08012017-05012018 / 3.92 / OTHR / 05012018
+  College 2 loaded: 001324 Indiana University Bloomington / 07012005-05012008 / 3.2 / OTHR / 05012008
+  Application Inserted Into Holding Tables
+                                   
+193192035 / Lapuc,Stephen / 0030339083
+  New First Time / New First Time / (GB)
+  * PUID Found : 0030339083
+  Camp/Prgm/Major/Rule Assigned: PWL / TLI-MS / TLIN / 2054
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  College 2 loaded: 003667 Northeastern University-MA / 09011979-06011984 / 2.2 / BACH / 06011984
+  Application Inserted Into Holding Tables
+                                   
+898343133 / Laurisch,Stephanie / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MBA-OL / MGMT / 2564
+  ** College 2 No Code - Not Loaded : 000000 ITT Technical Institute
+  College 1 loaded: 001090 Northeastern Illinois Univ / 04012007-12012011 / 3.88 / BACH / 12012011
+  College 3 loaded: 001811 Trine University Angola-IN / 10011999-04012000 / 2.41 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+108509973 / Luke,Evan / 
+  New First Time / New First Time / (GB)
+  Camp/Prgm/Major/Rule Assigned: PWL / IE-MSIE / IE / 1386
+  Area of Spec/Conc added to record: PPIE / 18919
+  ** College 1 No Code - Not Loaded : 000000 Mar Athanasius College of Engi
+  Application Inserted Into Holding Tables
+                                   
+624095529 / Luke,Evan / 
+  New First Time / New First Time / (GB)
+  Camp/Prgm/Major/Rule Assigned: PWL / ENGT-MS / ENGT / 2069
+  ** College 1 No Code - Not Loaded : 000000 Mar Athanasius College of Engi
+  Application Inserted Into Holding Tables
+                                   
+939001483 / Lyons,Carl / 0031412251 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031412251
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+993470689 / Martin,Sarah / 
+  New First Time / Current or Former Undergrad / (GA)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / EDCI-TL-OL / TLCI / 2539
+  Area of Spec/Conc not recorded in banner: EGLL
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+027357623 / Mason,Simon / 0031655748
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031655748
+  Camp/Prgm/Major/Rule Assigned: PWL / CS-MS / CS / 2565
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+008145502 / Moran,Adriel / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE-OL / CIVL / 2546
+  College 1 loaded: 002924 U S Military Academy-NY / 06012016-06012020 / 3.01 / BACH / 06012020
+  Application Inserted Into Holding Tables
+                                   
+511549980 / Nguyen,Duy / 
+  New First Time / Current or Former Undergrad / (GA)
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE / CIVL / 2548
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+662734941 / Nofzinger,Jordan / 0030352838 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0030352838
+  Camp/Prgm/Major/Rule Assigned: PWL / RADH-MS / MEDP / 2462
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+459851067 / Oyebode,Dorcas / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MS-OL / BUSA / 2561
+  ** College 1 No Code - Not Loaded : 000000 Samuel Adegboyega University o
+  Application Inserted Into Holding Tables
+                                   
+686301525 / Ramirez Parada,Juan / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ECE-MSECE-OL / ECEN / 2547
+  College 1 loaded: 006919 Univ of Texas/San Antonio / 08012018-12012021 / 3.59 / BACH / 12012021
+  Application Inserted Into Holding Tables
+                                   
+206224361 / Ramirez Parada,Juan / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / NE-MNE-OL / NUCL / 2627
+  College 1 loaded: 006919 Univ of Texas/San Antonio / 08012018-12012021 / 3.59 / BACH / 12012021
+  Application Inserted Into Holding Tables
+                                   
+550039546 / Reece,Daniel / 0026619557
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0026619557
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME-OL / MECH / 2557
+  ** College 2 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  College 1 loaded: HK0007 Hong Kong Univ Of Sci & Tech / 08012019-01012020 / 3.35 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+125358660 / Rivers,Carollynn / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / PUBH-MPH-OL / PUBH / 2517
+  College 1 loaded: 002925 University at Buffalo-SUNY / 01012017-08012021 / 3.3 / BACH / 08012021
+  College 2 loaded: 002543 SUNY College at Oswego-NY / 08012016-12012016 / 2.9 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+734496567 / Rongala,Pooja / 
+  New First Time / New First Time / (GB)
+  Camp/Prgm/Major/Rule Assigned: PWL / BME-MSBME / BMEP / 169
+  ** College 1 No Code - Not Loaded : 000000 B V Raju Institute of technolo
+  Application Inserted Into Holding Tables
+                                   
+208937758 / Sadler,James / 0030424561 / EMPLOYEE
+  New First Time / New First Time / (GB)
+  * PUID Found : 0030424561
+  Camp/Prgm/Major/Rule Assigned: PWL / ASEC-PHD / ASEC / 2376
+  ** College 2 No Code - Not Loaded : 000000 Illinois College
+  College 1 loaded: 005812 Univ of Florida / 08012010-08012013 / 4 / MAST / 08012013
+  Application Inserted Into Holding Tables
+                                   
+209515441 / Sanghi,Siddhartha / 0016520352
+  Continuing / Transfer between Grad Depts / (GN)
+  * PUID Found : 0016520352
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MBA-HY / MGMT / 2521
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  ** College 2 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+978603835 / Sanghi,Siddhartha / 0016520352
+  Continuing / Transfer between Grad Depts / (GN)
+  * PUID Found : 0016520352
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MS / FNNC / 1531
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  ** College 2 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+885643727 / Seif,Robert / 0031407596
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031407596
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+003975182 / Shah,Anika / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / AAE-MSAAE-OL / AAEN / 2545
+  ** College 1 No Code - Not Loaded : 000000 University of Texas/Austin
+  College 2 loaded: 006459 Midland College-TX / 12012018-01012019 / 3 / NOD / 
+  College 3 loaded: 006759 Austin Community College-TX / 05012013-08012016 / 3.38 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+816885865 / Shah,Saumya / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / IDE-MSE-OL / IDE / 2556
+  College 1 loaded: 001843 Univ of Tennessee Knoxville / 08012011-06012017 / 3.2 / BACH / 07012017
+  Application Inserted Into Holding Tables
+                                   
+289047427 / Shelton,Scott / 0031370512
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031370512
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+988312222 / Shubon,Akram / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME-OL / MECH / 2557
+  Area of Spec/Conc added to record: PPME / 20062
+  College 1 loaded: 002083 City College/CUNY-NY / 08012018-06012021 /  / BACH / 06012021
+  College 2 loaded: 002246 La Guardia Cmty Coll/CUNY-NY / 08012015-06012018 / 3.87 / ASOC / 06012018
+  Application Inserted Into Holding Tables
+                                   
+393728448 / Stockwell,Elliot / 0031643831
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031643831
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+429822444 / Thamaratnothai,Chutipol / 0031542581
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031542581
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+058200023 / Tinsley,Chelsea / 0032390043 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0032390043
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+070586001 / Tinsley,Kendal / 0032391324 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0032391324
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+744108444 / Vansal,Navdeep / 0031590185
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031590185
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+319862798 / Verduzco,Michael / 0031527175
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031527175
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+613939348 / Vo,Thai / 0031691697 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0031691697
+  Camp/Prgm/Major/Rule Assigned: PWL / ME-MSME / MECH / 195
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+644812045 / Wade,Joshua / 0030463002 / EMPLOYEE
+  New First Time / Current or Former Undergrad / (GA)
+  * PUID Found : 0030463002
+  Camp/Prgm/Major/Rule Assigned: PWL / HLS-MS / HTHP / 304
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+                                   
+101125858 / Wilson,Brian / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / CE-MSCE-OL / CIVL / 2546
+  College 1 loaded: 001335 Univ of Southern Indiana / 05012010-05012015 / 3.72 / BACH / 05012015
+  Application Inserted Into Holding Tables
+                                   
+627609216 / Wolf,Benjamin / 0035358582
+  New First Time / New First Time / (GB)
+  * PUID Found : 0035358582
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMTE-MBA-HY / MEXM / 2519
+  College 1 loaded: 004305 Embry-Riddle Aeronaut Univ-AZ / 09012004-06012012 / 3.9 / MAST / 07012012
+  College 2 loaded: 004830 US Air Force Academy-CO / 06011996-05012000 / 2.8 / BACH / 05012000
+  Application Inserted Into Holding Tables
+                                   
+573911285 / Womboldt,Joshua / 0034236082
+  Continuing / Apply as Dual Degree Grad Stu / (GC)
+  * PUID Found : 0034236082
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / AAM-CPB-OL / AVSM / 2493
+  College 1 loaded: 005807 U S Coast Guard Academy-CT / 06012010-05012014 / 3.08 / BACH / 05012014
+  Application Inserted Into Holding Tables
+                                   
+256537395 / Womboldt,Joshua / 0034236082
+  Continuing / Apply as Dual Degree Grad Stu / (GC)
+  * PUID Found : 0034236082
+  Distance Learning
+  **** Program not found Application Not Loaded  PWL/GR/GRST-ND-OL/AAEN
+  **** Application not loaded due to prior errors
+                                   
+516684734 / Yang,Zexin / 
+  New First Time / New First Time / (GB)
+  Camp/Prgm/Major/Rule Assigned: PWL / MGMT-MS / HRMM / 1531
+  College 1 loaded: 001448 Marquette Univ Milwaukee-WI / 01012018-05012022 / 2.79 / BACH / 05012022
+  Application Inserted Into Holding Tables
+                                   
+466779868 / Yuag,Erika / 
+  New First Time / New First Time / (GB)
+  Distance Learning
+  Camp/Prgm/Major/Rule Assigned: PWL / COMM-CPB-OL / CMLD / 2507
+  College 1 loaded: 004860 UC Santa Cruz Extension / 04012014-12012015 / 3.8 / NOD / 
+  College 2 loaded: 004687 San Jose State University-CA / 01012007-12012011 / 2.3 / BACH / 12012011
+  College 3 loaded: 004684 San Francisco State Univ-CA / 08012005-12012006 / 2.45 / NOD / 
+  Application Inserted Into Holding Tables
+                                   
+384315401 / Zhu,Ruoling / 0030873899
+  New First Time / Current or Former Undergrad / (GA)
+  **** PUID Not Found : 0030873899
+  Camp/Prgm/Major/Rule Assigned: PWL / TOXC-MS / TOXC / 2464
+  ** College 1 Purdue - Not Loaded : 001631 Purdue Univ West Lafayette-IN
+  Application Inserted Into Holding Tables
+ 
+Successfully process file
+Records loaded: 57
+Records rejected: 1
+Banner Job Name: SZKGSAP.p_gradapp_in

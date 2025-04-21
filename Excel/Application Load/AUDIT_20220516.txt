@@ -1,0 +1,187 @@
+
+16-MAY-2022 08:15:44 AM                             Purdue Production Instance                                          PAGE 1
+                                             Electronic Applicant Verify/Load Process                                   SARETMT
+
+                                             C O M P A R I S O N    P R O C E S S I N G
+
+                                                        Interface Type: GRAD
+                                                       Report Print: DETAILS
+                                                     Process Date: 16-MAY-2022
+
+
+ID          NAME                           TERM     APP NO   SOURCE   TYPE   ADD DATE      STATUS   SPRIDEN ID     PROC IND
+    * * * CURRICULUM * * *                                          * * * FIELDS IN ERROR * * *
+407518694   Asaad, Mohamed                 202410   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Nuclear Engineering
+635520328   Asaro, Giovanni A              202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Electrical & Computer Engr
+151860180   Ashaba, Nancy                  202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Management-Executive MBA
+517526709   Baker, Zachary J               202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Civil Engineering
+078676347   Bangur, Siddhant               202310   1        GRAP     GB     16-MAY-2022   MATCH    030271560      P Pushed
+    Management
+455125584   Chadwick, Alyssa J             202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Civil Engineering
+675700591   Clayton, Jonah M               202310   1        GRAP     GA     16-MAY-2022   MATCH    030989782      P Pushed
+    Human Resource Management
+191778761   Collins, Matthew S             202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Tech Leadership & Innovation
+047184145   Dolezalek, Emily J             202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Electrical & Computer Engr
+875307030   Echevarria, Naia M             202320   1        GRAP     GA     16-MAY-2022   MATCH    031537796      P Pushed
+    Civil Engineering
+136555219   Edwards, Aniya                 202310   1        GRAP     GA     16-MAY-2022   MATCH    030360230      P Pushed
+    Civil Engineering
+743701994   Ghose, Alyssa A                202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Public Health
+754506854   Giachini, Gabriella A          202310   1        GRAP     GA     16-MAY-2022   MATCH    031614711      P Pushed
+    Mechanical Engineering
+593219735   Grorud, Jesse                  202310   1        GRAP     GA     16-MAY-2022   MATCH    031393283      P Pushed
+    Mechanical Engineering
+123730825   Holtmann, Benjamin L           202310   1        GRAP     GA     16-MAY-2022   MATCH    031500087      P Pushed
+    Mechanical Engineering
+650419458   Horlacher, Jessica             202230   1        GRAP     GR     16-MAY-2022   MATCH    017326759      P Pushed
+    Educational Studies
+664596547   Islam, Morsedul                202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Mechanical Engineering
+042935404   Jha, Aishwarya K               202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Engineering Management
+142925410   Kirk, Aaron D                  202310   1        GRAP     GA     16-MAY-2022   MATCH    010722519      P Pushed
+    Economics
+193192035   Lapuc, Stephen D               202310   1        GRAP     GB     16-MAY-2022   MATCH    030339083      P Pushed
+    Tech Leadership & Innovation
+898343133   Laurisch, Stephanie            202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Management
+16-MAY-2022 08:15:44 AM                             Purdue Production Instance                                          PAGE 2
+                                             Electronic Applicant Verify/Load Process                                   SARETMT
+
+                                             C O M P A R I S O N    P R O C E S S I N G
+
+                                                        Interface Type: GRAD
+                                                       Report Print: DETAILS
+                                                     Process Date: 16-MAY-2022
+
+
+ID          NAME                           TERM     APP NO   SOURCE   TYPE   ADD DATE      STATUS   SPRIDEN ID     PROC IND
+    * * * CURRICULUM * * *                                          * * * FIELDS IN ERROR * * *
+108509973   Luke, Evan                     202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Industrial Engineering
+624095529   Luke, Evan                     202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Engineering Technology
+939001483   Lyons, Carl F                  202410   1        GRAP     GA     16-MAY-2022   MATCH    031412251      P Pushed
+    Mechanical Engineering
+993470689   Martin, Sarah A                202310   1        GRAP     GA     16-MAY-2022   SUSP                    N
+    Teacher Lic Curr & Inst
+027357623   Mason, Simon M                 202310   1        GRAP     GA     16-MAY-2022   MATCH    031655748      P Pushed
+    Computer Science
+008145502   Moran, Adriel E                202310   1        GRAP     GB     16-MAY-2022   MATCH    028832875      P Pushed
+    Civil Engineering
+511549980   Nguyen, Duy T                  202310   1        GRAP     GA     16-MAY-2022   MATCH    030673224      P Pushed
+    Civil Engineering
+662734941   Nofzinger, Jordan              202310   1        GRAP     GA     16-MAY-2022   MATCH    030352838      P Pushed
+    Medical Physics
+459851067   Oyebode, Dorcas F              202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Business Analytics
+206224361   Ramirez Parada, Juan L         202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Nuclear Engineering
+686301525   Ramirez Parada, Juan L         202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Electrical & Computer Engr
+550039546   Reece, Daniel A                202310   1        GRAP     GA     16-MAY-2022   MATCH    026619557      P Pushed
+    Mechanical Engineering
+125358660   Rivers, Carollynn              202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Public Health
+734496567   Rongala, Pooja L               202320   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Biomedical Engr Program
+208937758   Sadler, James J                202310   1        GRAP     GB     16-MAY-2022   MATCH    030424561      P Pushed
+    Ag Sciences Educ Communication
+209515441   Sanghi, Siddhartha             202310   1        GRAP     GN     16-MAY-2022   MATCH    016520352      P Pushed
+    Management
+978603835   Sanghi, Siddhartha             202230   1        GRAP     GN     16-MAY-2022   MATCH    016520352      P Pushed
+    Finance
+885643727   Seif, Robert J                 202410   1        GRAP     GA     16-MAY-2022   MATCH    031407596      P Pushed
+    Mechanical Engineering
+003975182   Shah, Anika D                  202310   1        GRAP     GB     16-MAY-2022   MATCH    W01500726      P Pushed
+    Aeronautics & Astronautics
+816885865   Shah, Saumya                   202310   1        GRAP     GB     16-MAY-2022   MATCH    024754175      P Pushed
+    Interdisciplinary Engineering
+289047427   Shelton, Scott J               202310   1        GRAP     GA     16-MAY-2022   MATCH    031370512      P Pushed
+    Mechanical Engineering
+988312222   Shubon, Akram H                202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Mechanical Engineering
+16-MAY-2022 08:15:44 AM                             Purdue Production Instance                                          PAGE 3
+                                             Electronic Applicant Verify/Load Process                                   SARETMT
+
+                                             C O M P A R I S O N    P R O C E S S I N G
+
+                                                        Interface Type: GRAD
+                                                       Report Print: DETAILS
+                                                     Process Date: 16-MAY-2022
+
+
+ID          NAME                           TERM     APP NO   SOURCE   TYPE   ADD DATE      STATUS   SPRIDEN ID     PROC IND
+    * * * CURRICULUM * * *                                          * * * FIELDS IN ERROR * * *
+393728448   Stockwell, Elliot P            202310   1        GRAP     GA     16-MAY-2022   MATCH    031643831      P Pushed
+    Mechanical Engineering
+429822444   Thamaratnothai, Chutipol       202410   1        GRAP     GA     16-MAY-2022   MATCH    031542581      P Pushed
+    Mechanical Engineering
+058200023   Tinsley, Chelsea               202310   1        GRAP     GA     16-MAY-2022   MATCH    032390043      P Pushed
+    Mechanical Engineering
+070586001   Tinsley, Kendal                202310   1        GRAP     GA     16-MAY-2022   MATCH    032391324      P Pushed
+    Mechanical Engineering
+744108444   Vansal, Navdeep S              202310   1        GRAP     GA     16-MAY-2022   MATCH    031590185      P Pushed
+    Mechanical Engineering
+319862798   Verduzco, Michael D            202410   1        GRAP     GA     16-MAY-2022   MATCH    031527175      P Pushed
+    Mechanical Engineering
+613939348   Vo, Thai Q                     202310   1        GRAP     GA     16-MAY-2022   MATCH    031691697      P Pushed
+    Mechanical Engineering
+644812045   Wade, Joshua M                 202310   1        GRAP     GA     16-MAY-2022   MATCH    030463002      P Pushed
+    Health Physics
+101125858   Wilson, Brian K                202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Civil Engineering
+627609216   Wolf, Benjamin                 202310   1        GRAP     GB     16-MAY-2022   MATCH    035358582      P Pushed
+    Management-Executive MBA
+573911285   Womboldt, Joshua W             202230   1        GRAP     GC     16-MAY-2022   MATCH    034236082      P Pushed
+    Aviation Safety Management
+516684734   Yang, Zexin                    202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Human Resource Management
+466779868   Yuag, Erika                    202310   1        GRAP     GB     16-MAY-2022   NEW      *GEN*          P Pushed
+    Communication & Leadership
+384315401   Zhu, Ruoling                   202310   1        GRAP     GA     16-MAY-2022   MATCH    030973899      P Pushed
+    Toxicology
+16-MAY-2022 08:15:44 AM                             Purdue Production Instance                                          PAGE 4
+                                             Electronic Applicant Verify/Load Process                                   SARETMT
+
+
+                                  * * * REPORT CONTROL INFORMATION - SARETMT - Release 8.21 * * *
+
+
+Report Name............: SARETMT
+Match Interface Type...: GRAD
+Source(s)..............: GRAP
+Application Types(s)...: All Types Used
+Start Date.............: 01-JAN-1990
+End Date...............: 31-DEC-2199
+Terms Used.............: All Terms Used
+Override App.  Status Ind.: Y
+Override App.  Accept Ind.: Y
+SSN or Generated ID....: G
+Report Print...........: D
+Audit/Update Mode......: A
+Create Recruit.........: N
+Recruit Source .........:
+RECORDS READ COUNT.....: 57
+
+REPORT COUNTS:
+
+Suspend................: 1
+Match Errors...........: 0
+New Persons............: 22
+Matched Persons........: 34
+Total Processed through
+..Match Process........: 57
+Total Held.............: 0
+Total Verified.........: 56
+Total Verify Errors....: 0
+Total Pushed...........: 56
+Total Push Errors......: 0
