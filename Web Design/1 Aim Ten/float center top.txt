@@ -1,0 +1,9 @@
+img.back {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -395px;
+	z-index: 30;
+}
+
+<a href="http://aimten.com/" border="0px"><img src="back.png" class="back" border="0px"></a>
