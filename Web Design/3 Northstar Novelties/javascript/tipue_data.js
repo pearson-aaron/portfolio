@@ -1,0 +1,13 @@
+var s = new Array();
+
+s[0] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";
+
+s[1] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";
+
+s[2] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";
+
+s[3] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";
+
+s[4] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";
+
+s[5] = "Ford Thunderbird Alarm Clock^ftac.html^Get your morning motor running with this retro neon analog alarm clock. Styled after the classic 1950s Ford Thunderbird, it features a rectangular shape with classic knobs and detailing for a vintage look. Listen to your favorite tunes on the AM/FM radio or the top-loading CD player. Set the alarm to music or chime. Illuminated by a neon tube light. Includes a second hand and snooze option.";

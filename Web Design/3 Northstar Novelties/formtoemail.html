@@ -1,0 +1,614 @@
+<html>
+<head>
+<title></title>
+
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<script type="text/javascript" src="javascript/cssverticalmenu.js">
+
+</script>
+
+<style type="text/css">
+#links {
+  position: relative;
+  left: 0px;
+  width : 189px;
+  height gt: 0px;
+  background-color: ;
+  z-index: 2;
+  position:relative; 
+  visibility:show; 
+  margin-left:0px; 
+  margin-top: 0px;
+}
+
+#paragraph { 
+  position: relative; 
+  margin-right: 10px; 
+  margin-left : 155px;
+  margin-top: -368px; 
+  z-index: 0;
+  text-align : justify;
+}
+
+#left {
+  position: relative;
+  margin-top: -1767px; /* First, (- = up, + = down) this number moves black behind links, inverse directly below */
+  height : 1767px; /* Second, (+ = big, - = small) this number sizes black behind links, inverse directly above */
+  left: 0px;
+  width : 145px;
+  background-color: #000000;
+  z-index: 0;
+}
+</style>
+
+</head>
+<body>
+
+<div id="content">
+
+<img src="jpg/logo.jpg" border="0" alt="">
+
+<div id="form">
+<form method="get" name="tipue" action="results.html">
+<table cellpadding=0 cellspacing=0 class="form_table"><tr>
+<td class="form_td_left">
+<input type="text" name="d" class="field">
+</td>
+<td class="form_td_right">
+<input type="submit" value="Search" class="button">
+</td></tr></table>
+</form>
+</div>
+
+<div id="links">
+<table border="0"><tr border="0"><td border="0">
+<ul id="verticalmenu" class="glossymenu">
+<li><a href="index.html">Home</a></li>
+<li><a href="#" >Electronics</a>
+    <ul>
+    <li><a href="item1.html">Alarm Clocks</a></li>
+    <li><a href="item2.html">Phones</a></li>
+    <li><a href="item3.html">CD Decks</a></li>
+    <li><a href="item4.html">Cell Phones</a></li>
+    <li><a href="item5.html">Speakers</a></li>
+    <li><a href="allitems.html">All Other Electronics</a></li>
+    </ul>
+</li>
+<li><a href="#" >Novelties</a>
+    <ul>
+    <li><a href="item1.html">Interesting Inventions</a></li>
+    <li><a href="item2.html">Prank or Gag Gifts</a></li>
+    </ul>
+</li>
+<li><a href="#" >Jewelry</a>
+    <ul>
+    <li><a href="item1.html">Rings</a></li>
+    <li><a href="item2.html">Bracelets</a></li>
+    <li><a href="item3.html">Necklacs</a></li>
+    <li><a href="item4.html">Earrings</a></li>
+    </ul>
+</li>
+<li><a href="#" >Candy</a>
+    <ul>
+    <li><a href="item1.html">Hard Candy</a></li>
+    <li><a href="item2.html">Gummie Candy</a></li>
+    <li><a href="item3.html">Chewy Candy</a></li>
+    <li><a href="item4.html">Sour & Fruity Candy</a></li>
+    <li><a href="item5.html">Chocolates</a></li>
+    </ul>
+</li>
+<li><a href="#" >Signs & Plates</a></li>
+<li><a href="#" >Games</a></li>
+<li><a href="#" >Toys</a>
+    <ul>
+    <li><a href="item1.html">Infants</a></li>
+    <li><a href="item2.html">Ages: 1 & 2</a></li>
+    <li><a href="item3.html">Ages: 3 & 4</a></li>
+    <li><a href="item4.html">Ages: 4-8</a></li>
+    <li><a href="item5.html">Ages: 9+</a></li>
+    <li><a href="allitems.html">All Items</a></li>
+    </ul>
+</li>
+<li><a href="events.html">Discount Items</a></li>
+<li><a href="info.html">Company Info</a></li>
+<li><a href="mailto:info@fruitlessenterprise.com">Contact Us</a></li>
+</ul>
+</td></tr></table>
+</div>
+
+<div id="paragraph">
+
+
+
+<form action="FormToEmail.php" method="post">
+
+<font color="black">
+	
+<h3>Item Information</h3>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+
+<tr>
+<td>
+<strong>
+<font color="black">Item Number(s):</strong>
+</td>
+<td>
+<input type="text" class="text" size="45" maxlength="99" value="" name="item"/>
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h3>Shipping Information</h3>
+
+
+<h4>Shipping Address</h4>
+
+
+<fieldset>
+<table border="0" cellspacing="5%">
+
+<tr>
+<td>
+<strong>
+<font color="black">First Name:</strong>
+</td>
+<td>
+<input type="text" class="text" size="45" maxlength="99" value="" name="firstname"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Last Name:</strong>
+</td>
+<td>
+<input type="text" class="text" size="45" maxlength="99" value="" name="lastname"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Company:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Street Address 1:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" name="address"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Street Address 2:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">City:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" name="city"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">State:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" name="state"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Zip Code:</strong>
+</td>
+<td>
+<input type="text" class="text" size="10" maxlength="99" value="" name="zip"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Phone:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" name="number"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Email:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" name="email"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Country:</strong>
+</td>
+<td>
+<select name="country" name="country">
+  <option value="AR">Argentina</option>
+  <option value="AU">Australia</option>
+  <option value="AT">Austria</option>
+  <option value="BS">Bahamas</option>
+  <option value="BE">Belgium</option>
+  <option value="BM">Bermuda</option>
+  <option value="BR">Brazil</option>
+  <option value="CA">Canada</option>
+  <option value="KY">Cayman Islands</option>
+  <option value="CZ">Czech Republic</option>
+  <option value="DK">Denmark</option>
+  <option value="EG">Egypt</option>
+  <option value="FI">Finland</option>
+  <option value="FR">France</option>
+  <option value="FX">France, Metropolitan</option>
+  <option value="DE">Germany</option>
+  <option value="GR">Greece</option>
+  <option value="GL">Greenland</option>
+  <option value="GU">Guam</option>
+  <option value="HK">Hong Kong</option>
+  <option value="IS">Iceland</option>
+  <option value="IN">India</option>
+  <option value="IE">Ireland</option>
+  <option value="IL">Israel</option>
+  <option value="IT">Italy</option>
+  <option value="JP">Japan</option>
+  <option value="KP">Korea, Democratic People's Republic of</option>
+  <option value="KR">Korea, Republic of</option>
+  <option value="MT">Malta</option>
+  <option value="MX">Mexico</option>
+  <option value="NL">Netherlands</option>
+  <option value="AN">Netherlands Antilles</option>
+  <option value="NZ">New Zealand</option>
+  <option value="NO">Norway</option>
+  <option value="PH">Philippines</option>
+  <option value="PL">Poland</option>
+  <option value="PT">Portugal</option>
+  <option value="ZA">South Africa</option>
+  <option value="ES">Spain</option>
+  <option value="SE">Sweden</option>
+  <option value="CH">Switzerland</option>
+  <option value="TW">Taiwan</option>
+  <option value="TH">Thailand</option>
+  <option value="TR">Turkey</option>
+  <option value="UM">US Minor Outlying Islands</option>
+  <option value="UK">United Kingdom</option>
+  <option value="US" selected="selected">United States</option>
+  <option value="UY">Uruguay</option>
+  <option value="VA">Vatican City</option>
+  <option value="VG">Virgin Islands (British)</option>
+  <option value="VI">Virgin Islands (U.S.)</option>
+</select>
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h4>Shipping Options</h4>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+<tr>
+<td>
+<strong>
+<font color="black">Shipping Method:</strong>
+</td>
+<td>
+<select name="shippingOptionsDS.shipping_options_ROW0_shipping_method_id" id="merchant-selected-shipping-methods" >
+  <option value="UPS Ground" selected="selected">UPS Ground</option>
+  <option value="UPS 3 Day Select">UPS 3 Day Select</option>
+  <option value="UPS 2nd Day Air">UPS 2nd Day Air&reg;</option>
+  <option value="UPS Next Day Air Saver">UPS Next Day Air Saver&reg;</option>
+  <option value="UPS Standard to Canada">UPS Standard to Canada</option>
+  <option value="UPS Worldwide Expedited">UPS Worldwide Expedited</option>
+  <option value="UPS Worldwide Express">UPS Worldwide Express</option>
+</select>
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h3>Billing Information</h3>
+
+
+<h4>Billing Address</h4>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+
+<tr>
+<td>
+<strong>
+<font color="black">First Name:</strong>
+</td>
+<td>
+<input type="text" class="text" size="45" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Last Name:</strong>
+</td>
+<td>
+<input type="text" class="text" size="45" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Company:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Street Address 1:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Street Address 2:</strong>
+</td>
+<td>
+<input type="text" class="text" size="31" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">City:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">State:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Zip Code:</strong>
+</td>
+<td>
+<input type="text" class="text" size="10" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Phone:</strong>
+</td>
+<td>
+<input type="text" class="text" size="13" maxlength="99" value="" />
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Country:</strong>
+</td>
+<td>
+<select name="country">
+  <option value="AR">Argentina</option>
+  <option value="AU">Australia</option>
+  <option value="AT">Austria</option>
+  <option value="BS">Bahamas</option>
+  <option value="BE">Belgium</option>
+  <option value="BM">Bermuda</option>
+  <option value="BR">Brazil</option>
+  <option value="CA">Canada</option>
+  <option value="KY">Cayman Islands</option>
+  <option value="CZ">Czech Republic</option>
+  <option value="DK">Denmark</option>
+  <option value="EG">Egypt</option>
+  <option value="FI">Finland</option>
+  <option value="FR">France</option>
+  <option value="FX">France, Metropolitan</option>
+  <option value="DE">Germany</option>
+  <option value="GR">Greece</option>
+  <option value="GL">Greenland</option>
+  <option value="GU">Guam</option>
+  <option value="HK">Hong Kong</option>
+  <option value="IS">Iceland</option>
+  <option value="IN">India</option>
+  <option value="IE">Ireland</option>
+  <option value="IL">Israel</option>
+  <option value="IT">Italy</option>
+  <option value="JP">Japan</option>
+  <option value="KP">Korea, Democratic People's Republic of</option>
+  <option value="KR">Korea, Republic of</option>
+  <option value="MT">Malta</option>
+  <option value="MX">Mexico</option>
+  <option value="NL">Netherlands</option>
+  <option value="AN">Netherlands Antilles</option>
+  <option value="NZ">New Zealand</option>
+  <option value="NO">Norway</option>
+  <option value="PH">Philippines</option>
+  <option value="PL">Poland</option>
+  <option value="PT">Portugal</option>
+  <option value="ZA">South Africa</option>
+  <option value="ES">Spain</option>
+  <option value="SE">Sweden</option>
+  <option value="CH">Switzerland</option>
+  <option value="TW">Taiwan</option>
+  <option value="TH">Thailand</option>
+  <option value="TR">Turkey</option>
+  <option value="UM">US Minor Outlying Islands</option>
+  <option value="UK">United Kingdom</option>
+  <option value="US" selected="selected">United States</option>
+  <option value="UY">Uruguay</option>
+  <option value="VA">Vatican City</option>
+  <option value="VG">Virgin Islands (British)</option>
+  <option value="VI">Virgin Islands (U.S.)</option>
+</select>
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h4>Debit/Credit Card Information</h4>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+
+<tr>
+<td>
+<strong>
+<font color="black">Card Company:</strong>
+</td>
+<td>
+&nbsp;&nbsp;<input type="text" class="text" size="31" maxlength="99" value="" name="cardcompany"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Card Number:</strong>
+</td>
+<td>
+&nbsp;&nbsp;<input type="text" class="text" size="31" maxlength="99" value="" name="cardnumber"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">Expiration Date:</strong>
+</td>
+<td>
+&nbsp;&nbsp;<input type="text" class="text" size="10" maxlength="99" value="" name="expdate"/>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>
+<font color="black">CVV:</strong>
+</td>
+<td>
+&nbsp;&nbsp;<input type="text" class="text" size="6" maxlength="99" value="" />
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h3>Additional Information</h3>
+
+
+<h4>Comments</h4>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+<tr>
+<td>
+<textarea name="mesg" rows="10" cols="50"></textarea>
+</td>
+</tr>
+</table>
+</fieldset>
+
+<h4>Agreement<h4>
+
+<fieldset>
+<table border="0" cellspacing="5%">
+<tr>
+<td>
+<input type="checkbox" name="agreement[]" value="I agree." name="agreement"/><font color="black">  I acknowledge that I have read and agree to the <a href="#">Terms & Conditions</a> set forth by http://fruitlessenterprise.com.
+</td>
+</tr>
+</table>
+</fieldset>
+
+</color>
+
+<table border="0" cellspacing="5%">
+<tr>
+<td>
+<input type="submit" value="Submit" />
+</td>
+</tr>
+</table>
+
+</form>
+
+<br>
+
+<center><font size="2"><font color="black">
+
+<a href="index.html">Home</a>&nbsp;|&nbsp;
+<a href="info.html">Company Info</a>&nbsp;|&nbsp;
+<a href="mailto:info@fruitlessenterprise.com">Contact Us</a>&nbsp;|&nbsp;
+<a href="FAQ.html">FAQ</a>&nbsp;|&nbsp;
+<a href="tnc.html" >Terms & Conditions</a>&nbsp;|&nbsp;
+<a href="security.html">Privacy & Security</a>
+
+</color></size></center>
+
+<br>
+
+</div>
+
+<div id="left">
+
+</div>
+
+</div>
+
+</body>
+</html>

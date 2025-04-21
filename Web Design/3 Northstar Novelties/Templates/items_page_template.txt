@@ -1,0 +1,633 @@
+<html>
+<head>
+	
+	<title></title>
+	
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<script type="text/javascript" src="javascript/cssverticalmenu.js">
+
+</script>
+
+<style type="text/css">
+#links {
+  position: relative;
+  left: 0px;
+  width : 189px;
+  height gt: 0px;
+  background-color: ;
+  z-index: 2;
+  position:relative; 
+  visibility:show; 
+  margin-left:0px; 
+  margin-top: 0px;
+}
+
+#paragraph { 
+  position: relative; 
+  margin-right: 10px; 
+  margin-left : 155px;
+  margin-top: -348px; 
+  z-index: 0;
+  text-align : justify;
+}
+
+#left {
+  position: relative;
+  margin-top: -722px; /* First, (- = up, + = down) this number moves black behind links, inverse directly below */
+  height : 722px; /* Second, (+ = big, - = small) this number sizes black behind links, inverse directly above */
+  left: 0px;
+  width : 145px;
+  background-color: #000000;
+  z-index: 0;
+}
+</style>
+
+</head>
+<body>
+
+<div id="content">
+
+<img src="jpg/logo.jpg" border="0" alt="">
+
+<div id="form">
+<form method="get" name="tipue" action="results.html">
+<table cellpadding=0 cellspacing=0 class="form_table"><tr>
+<td class="form_td_left">
+<input type="text" name="d" class="field">
+</td>
+<td class="form_td_right">
+<input type="submit" value="Search" class="button">
+</td></tr></table>
+</form>
+</div>
+
+<div id="links">
+<table border="0"><tr border="0"><td border="0">
+<ul id="verticalmenu" class="glossymenu">
+<li><a href="index.html">Home</a></li>
+<li><a href="#" >Electronics</a>
+    <ul>
+    <li><a href="item1.html">Alarm Clocks</a></li>
+    <li><a href="item2.html">Phones</a></li>
+    <li><a href="item3.html">CD Decks</a></li>
+    <li><a href="item4.html">Cell Phones</a></li>
+    <li><a href="item5.html">Speakers</a></li>
+    <li><a href="allitems.html">All Other Electronics</a></li>
+    </ul>
+</li>
+<li><a href="#" >Novelties</a>
+    <ul>
+    <li><a href="item1.html">Interesting Inventions</a></li>
+    <li><a href="item2.html">Prank or Gag Gifts</a></li>
+    </ul>
+</li>
+<li><a href="#" >Jewelry</a>
+    <ul>
+    <li><a href="item1.html">Rings</a></li>
+    <li><a href="item2.html">Bracelets</a></li>
+    <li><a href="item3.html">Necklacs</a></li>
+    <li><a href="item4.html">Earrings</a></li>
+    </ul>
+</li>
+<li><a href="#" >Candy</a>
+    <ul>
+    <li><a href="item1.html">Hard Candy</a></li>
+    <li><a href="item2.html">Gummie Candy</a></li>
+    <li><a href="item3.html">Chewy Candy</a></li>
+    <li><a href="item4.html">Sour & Fruity Candy</a></li>
+    <li><a href="item5.html">Chocolates</a></li>
+    </ul>
+</li>
+<li><a href="#" >Signs & Plates</a></li>
+<li><a href="#" >Games</a></li>
+<li><a href="#" >Toys</a>
+    <ul>
+    <li><a href="item1.html">Infants</a></li>
+    <li><a href="item2.html">Ages: 1 & 2</a></li>
+    <li><a href="item3.html">Ages: 3 & 4</a></li>
+    <li><a href="item4.html">Ages: 4-8</a></li>
+    <li><a href="item5.html">Ages: 9+</a></li>
+    <li><a href="allitems.html">All Items</a></li>
+    </ul>
+</li>
+<li><a href="events.html">Discount Items</a></li>
+<li><a href="info.html">Company Info</a></li>
+<li><a href="mailto:info@fruitlessenterprise.com">Contact Us</a></li>
+</ul>
+</td></tr></table>
+</div>
+
+<div id="paragraph">
+
+<center><font color="red">
+<!--headline phrase BEGINS here-->
+
+<!--headline phrase ENDS here-->
+</color></center>
+
+<center><table width="600" height="545">
+
+
+
+<tr>
+<td><!--Row 1 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 1 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 1 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+<tr>
+<td><!--Row 2 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 2 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 2 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+<tr>
+<td><!--Row 3 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 3 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 3 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+<tr>
+<td><!--Row 4 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 4 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 4 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+<tr>
+<td><!--Row 5 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 5 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 5 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+<tr>
+<td><!--Row 6 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 6 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 6 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+<tr>
+<td><!--Row 7 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 7 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 7 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+<tr>
+<td><!--Row 8 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 8 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 8 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+<tr>
+<td><!--Row 9 Col 1--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 9 Col 2--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+
+
+
+<td><!--Row 9 Col 3--><center>
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href="">
+<!--THUMBNAIL IMAGE SOURCE: goes below, between parenthesis-->
+<img src="" border="0"></a><br><font color="black">
+<!--ITEM LINK: goes below, between parenthesis-->
+<a href=""><b>
+<!--ITEM NAME: blank line directly below-->
+
+</b></a><br>
+Price: 
+<!--PRICE: blank line directly below-->
+
+</color></center></td>
+</tr>
+
+
+
+</table></center>
+
+<br>
+
+<center><font size="2"><font color="black">
+
+<a href="index.html">Home</a>&nbsp;|&nbsp;
+<a href="info.html">Company Info</a>&nbsp;|&nbsp;
+<a href="mailto:info@fruitlessenterprise.com">Contact Us</a>&nbsp;|&nbsp;
+<a href="FAQ.html">FAQ</a>&nbsp;|&nbsp;
+<a href="tnc.html" >Terms & Conditions</a>&nbsp;|&nbsp;
+<a href="security.html">Privacy & Security</a>
+
+</color></size></center>
+
+<br>
+
+</div>
+
+<div id="left">
+
+</div>
+
+</div>
+
+</body>
+</html>

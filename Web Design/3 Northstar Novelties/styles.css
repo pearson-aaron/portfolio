@@ -1,0 +1,159 @@
+body {
+  background-color : #6699cc;  
+  color : #ffffff;
+  text-align : center;
+  margin-top : 0px;
+  margin-bottom : 0px;
+  vertical-align : middle;
+}
+
+#content {
+  width : 800px;
+  height gt: 636px;
+  margin-right : auto;
+  margin-left : auto;
+  background-color : #ffffff;
+  padding : 0px;
+  text-align : left;
+  z-index : 0;
+}
+
+#form { 
+  position: relative; 
+  margin-right: 10px;
+  margin-top: -57px; 
+  left: 525px; 
+  z-index: 1;
+}
+
+#hpads {
+position : absolute;
+margin-top : -253px;
+margin-left : 19px;
+}
+
+{
+	font-family: tahoma, verdana, arial, helvetica;
+	font-size: .7em;
+	background-color: #FFFFFF;
+	color: #626278;
+	margin: 20px 10px 10px 10px;
+}
+hr
+{
+	color: #D4D4D4;
+	background-color: #D4D4D4;
+	height: 1px;
+	border: none;
+}
+p
+{
+	margin-top: 13px;
+}
+a:link
+{
+	color: #648BCB;
+}
+a:active
+{
+	color: #648BCB;
+}
+a:visited
+{
+	color: #648BCB;
+}
+a:hover
+{
+	color: #82AC83;
+}
+.field
+{
+	font-family: tahoma, verdana, arial, helvetica;
+	font-size: 11px;
+	color: #626278;
+	width: 170px;
+}
+.button
+{
+	font-family: tahoma, verdana, arial, helvetica;
+	font-size: 11px;
+	padding: 2px 0 2px 0;
+	width: 85px;
+}
+.form_table
+{
+	width: 270px;
+}
+.form_td_left
+{
+	width: 185px;
+}
+.form_td_right
+{
+	width: 85px;
+}
+
+.glossymenu, .glossymenu li ul{
+list-style-type: none;
+margin: 0;
+padding: 0px;
+width : 140px; /*WIDTH OF MAIN MENU ITEMS*/
+border: 0px solid black;
+z-index : 1;
+}
+
+.glossymenu li{
+position: relative;
+z-index : 1;
+}
+
+.glossymenu li ul{ /*SUB MENU STYLE*/
+position: absolute;
+width : 140px; /*WIDTH OF SUB MENU ITEMS*/
+top: 0px;
+margin-left: 0px;
+display: none;
+filter:alpha(opacity=100);
+-moz-opacity:1;
+z-index : 1;
+background-color :#000000;
+}
+
+.glossymenu li a{
+background: ;
+font: 16px sylfaen, Times New Roman, Arial;
+color: #ffffff;
+display: block;
+width: 140px;
+padding: 5px 0px;
+padding-left: 11px;
+text-decoration: none;
+margin-left : 5px;
+z-index : 1;
+}
+
+.glossymenu .arrowdiv{
+position: absolute;
+right: 20px;
+background: transparent url(gif/arrow.gif) no-repeat center right;
+z-index : 0;
+}
+
+.glossymenu li a:visited, .glossymenu li a:active{
+color: #ffffff;
+z-index : 1;
+}
+
+.glossymenu li a:hover{
+color: #6699cc;
+z-index : 1;
+background-color : ;
+width : 140px;
+}
+
+
+
+/* Holly Hack for IE \*/
+* html .glossymenu li { float: left; height: 1%; }
+* html .glossymenu li a { height: 1%; }
+/* End */
