@@ -1,0 +1,695 @@
+<html>
+<title>Aaron Pearson</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+body {
+background-color: #f5f5f5;
+font-family: sans-serif;
+}
+
+div#thispage {
+max-width: 1000px;
+}
+
+div#name {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 60px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#name:hover {
+
+}
+
+div#nametwo {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 30px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#nametwo:hover {
+
+}
+
+div#notlk {
+color: black;
+background-color: #;
+margin-top: px;
+font-size: 12px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 17px;
+max-width: px;
+}
+
+div#notlk2 {
+color: #ffffff;
+background-color: #000000;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#notlk3 {
+color: #ffffff;
+background-color: #000000;
+margin-top: 20px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk {
+color: black;
+background-color: #b9cbda;
+border-top: 1px solid #b9cbda;
+border-left: 1px solid #b9cbda;
+border-right: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkactive {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk:hover {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+}
+
+div#lkone {
+color: black;
+background-color: #b9cbda;
+border: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkoneactive {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+}
+
+div#lkone:hover {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+-webkit-transition: .4s ease-in-out;
+transition: .4s ease-in-out;
+}
+
+div#content {
+margin-top: 0px;
+}
+
+img {
+border-radius: 10px;
+<!--box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);-->
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .1s ease-in-out;
+	transition: .1s ease-in-out;
+}
+
+img.a {
+width: 100%;
+}
+
+img.b {
+width: 100%;
+}
+
+img:hover {
+filter: brightness(105%);
+
+	-webkit-transform: scale(1.02);
+	transform: scale(1.02);
+}
+
+table {
+  border-spacing: 10px;
+  width: 100%;
+}
+
+.header td {
+  padding: 0px;
+}
+
+.content td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+}
+
+.twocontent td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+  width: 33%;
+}
+
+.threecontent td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+  box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+  width: 100%;
+}
+
+.fivecontent td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+  box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+  width: 25%;
+}
+
+iframe {
+  border-radius: 10px;
+}
+
+p {
+color: #;
+background-color: #b9cbda;
+margin-top: 0px;
+font-size: px;
+border-radius: 10px;
+
+padding: 10px;
+max-width: px;
+}
+
+/* If the screen size is 810px wide or less, hide the element */
+@media only screen and (max-width: 810px) {
+  div.hide_on_phone {
+    display: none;
+  }
+}
+
+/* If the screen size is 811px or more, hide the element */
+@media only screen and (min-width: 811px) {
+  div.hide_on_computer {
+    display: none;
+  }
+}
+</style>
+</head>
+<body>
+<center>
+<div id="thispage">
+
+
+
+
+
+
+
+
+
+<table class="header"><tr><td>
+
+<div class="hide_on_phone">
+<table><tr><td>
+<div id="name"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_computer">
+<table><tr><td>
+<div id="nametwo"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_phone">
+<table><tr>
+<td>
+<a style="text-decoration: none;" href="index.html"><div id="lk"><center>Home</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="social.html"><div id="lk"><center>Social</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="video.html"><div id="lk"><center>Video</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="photography.html"><div id="lk"><center>Photography</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="pdf.html"><div id="lk"><center>PDF</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="web.html"><div id="lk"><center>Web</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="excel.html"><div id="lk"><center>Excel</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="misc.html"><div id="lkactive"><center>Misc.</center></div></a>
+</td>
+</tr></table>
+</div>
+
+
+
+<div class="hide_on_computer"><table><tr><td>
+<a style="text-decoration: none;" href="index.html"><div id="lkone"><center>Home</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="social.html"><div id="lkone"><center>Social</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="video.html"><div id="lkone"><center>Video</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="photography.html"><div id="lkone"><center>Photography</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="pdf.html"><div id="lkone"><center>PDF</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="web.html"><div id="lkone"><center>Web</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="excel.html"><div id="lkone"><center>Excel</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="misc.html"><div id="lkoneactive"><center>Misc.</center></div></a>
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content"><center>
+<table><tr><td>
+
+
+
+<table><tr><td>
+<div id="notlk2"><b>Bench</b>: 3D Model Concept to Finished Product</div>
+</td>
+</tr></table>
+
+
+
+<div class="hide_on_phone">
+<table class="fivecontent"><tr><td align="left" valign="top"><p><b>1</b>: 3D concept</p>
+<a target="_blank" href="SketchUp/b1.jpg"><img class="b" src="SketchUp/b1.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>2</b>: Blueprint for interior</p>
+<a target="_blank" href="SketchUp/b2.jpg"><img class="b" src="SketchUp/b2.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>3</b>: Cut wood to length</p>
+<a target="_blank" href="SketchUp/b3.jpg"><img class="b" src="SketchUp/b3.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>4</b>: Interior structure built</p>
+<a target="_blank" href="SketchUp/b4.jpg"><img class="b" src="SketchUp/b4.jpg"></a>
+</td>
+</tr>
+</table>
+
+<table class="fivecontent"><tr><td align="left" valign="top"><p><b>5</b>: Cut wood to length</p>
+<a target="_blank" href="SketchUp/b5.jpg"><img class="b" src="SketchUp/b5.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>6</b>: Place exterior panels</p>
+<a target="_blank" href="SketchUp/b6.jpg"><img class="b" src="SketchUp/b6.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>7</b>: Exterior panels placed</p>
+<a target="_blank" href="SketchUp/b7.jpg"><img class="b" src="SketchUp/b7.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>8</b>: Finished product</p>
+<a target="_blank" href="SketchUp/b8.jpg"><img class="b" src="SketchUp/b8.jpg"></a>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="content"><tr><td align="left" valign="top"><p><b>1</b>: 3D concept</p>
+<a target="_blank" href="SketchUp/b1.jpg"><img class="b" src="SketchUp/b1.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>2</b>: Blueprint for interior</p>
+<a target="_blank" href="SketchUp/b2.jpg"><img class="b" src="SketchUp/b2.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top"><p><b>3</b>: Cut wood to length</p>
+<a target="_blank" href="SketchUp/b3.jpg"><img class="b" src="SketchUp/b3.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>4</b>: Interior structure built</p>
+<a target="_blank" href="SketchUp/b4.jpg"><img class="b" src="SketchUp/b4.jpg"></a>
+</td>
+</tr><tr><td align="left" valign="top"><p><b>5</b>: Cut wood to length</p>
+<a target="_blank" href="SketchUp/b5.jpg"><img class="b" src="SketchUp/b5.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>6</b>: Place exterior panels</p>
+<a target="_blank" href="SketchUp/b6.jpg"><img class="b" src="SketchUp/b6.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top"><p><b>7</b>: Exterior panels placed</p>
+<a target="_blank" href="SketchUp/b7.jpg"><img class="b" src="SketchUp/b7.jpg"></a>
+</td>
+<td align="left" valign="top"><p><b>8</b>: Finished product</p>
+<a target="_blank" href="SketchUp/b8.jpg"><img class="b" src="SketchUp/b8.jpg"></a>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<table><tr><td>
+<div id="notlk3"><b>Table</b>: 3D Model Concept to Finished Product</div>
+</td>
+</tr></table>
+
+
+
+<div class="hide_on_phone">
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/t1.jpg"><img class="b" src="SketchUp/t1.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t2.jpg"><img class="b" src="SketchUp/t2.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t3.jpg"><img class="b" src="SketchUp/t3.jpg"></a>
+</td></tr>
+</table>
+
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/t4.jpg"><img class="b" src="SketchUp/t4.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t5.jpg"><img class="b" src="SketchUp/t5.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t6.jpg"><img class="b" src="SketchUp/t6.jpg"></a>
+</td></tr>
+</table>
+
+<table class="threecontent"><tr><td align="center" valign="top">
+<a target="_blank" href="SketchUp/t7.jpg"><img class="b" src="SketchUp/t7.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/t1.jpg"><img class="b" src="SketchUp/t1.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t2.jpg"><img class="b" src="SketchUp/t2.jpg"></a>
+</td></tr><tr>
+
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t3.jpg"><img class="b" src="SketchUp/t3.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t4.jpg"><img class="b" src="SketchUp/t4.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t5.jpg"><img class="b" src="SketchUp/t5.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/t6.jpg"><img class="b" src="SketchUp/t6.jpg"></a>
+</td></tr>
+</table>
+
+<table class="threecontent"><tr><td align="center" valign="top">
+<a target="_blank" href="SketchUp/t7.jpg"><img class="b" src="SketchUp/t7.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<table><tr><td>
+<div id="notlk3"><b>Donut Wall</b></div>
+</td>
+</tr></table>
+
+
+
+<div class="hide_on_phone">
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw1.jpg"><img class="b" src="SketchUp/dw1.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw2.jpg"><img class="b" src="SketchUp/dw2.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw3.jpg"><img class="b" src="SketchUp/dw3.jpg"></a>
+</td></tr>
+</table>
+
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw4.jpg"><img class="b" src="SketchUp/dw4.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw5.jpg"><img class="b" src="SketchUp/dw5.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw6.jpg"><img class="b" src="SketchUp/dw6.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="content"><tr><td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw1.jpg"><img class="b" src="SketchUp/dw1.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw2.jpg"><img class="b" src="SketchUp/dw2.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw3.jpg"><img class="b" src="SketchUp/dw3.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw4.jpg"><img class="b" src="SketchUp/dw4.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw5.jpg"><img class="b" src="SketchUp/dw5.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="SketchUp/dw6.jpg"><img class="b" src="SketchUp/dw6.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<table><tr><td>
+<div id="notlk3"><b>Other Woodworking Projects</b></div>
+</td>
+</tr></table>
+
+
+
+<table class="content">
+<tr rowspan="3"><td align="center" valign="top"><p>Pantry (Before)</p>
+<a target="_blank" href="SketchUp/bd1.jpg"><img class="a" src="SketchUp/bd1.jpg"></a></td><td align="center" valign="top"><p>Pantry (After)</p>
+<a target="_blank" href="SketchUp/bd2.jpg"><img class="b" src="SketchUp/bd2.jpg"></a></td></tr></table>
+
+
+<table class="content">
+<tr rowspan="3"><td align="left" valign="top" width="50%">
+<a target="_blank" href="SketchUp/bd.jpg"><img class="b" src="SketchUp/bd.jpg"></a></td><td align="left" valign="top">
+<a target="_blank" href="SketchUp/potato bin.jpg"><img class="b" src="SketchUp/potato bin.jpg"></a>
+</td></tr>
+</table>
+
+
+<table><tr><td>
+<div id="notlk3"><b>Baking:</b> Cinnamon Roll</div>
+</td>
+</tr></table>
+
+
+
+<div class="hide_on_phone">
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="Baking/cr1.jpg"><img class="b" src="Baking/cr1.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr2.jpg"><img class="b" src="Baking/cr2.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr3.jpg"><img class="b" src="Baking/cr3.jpg"></a>
+</td></tr>
+</table>
+
+<table class="twocontent"><tr><td align="center" valign="top">
+
+<video width="100%" height="100%" controls style="border-radius: 10px;"><source src="Baking/cr4.mp4" type="video/mp4"></video>
+
+<!--<iframe height="370px" width="277px" src="Baking/cr4.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr5.jpg"><img class="b" src="Baking/cr5.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr6.jpg"><img class="b" src="Baking/cr6.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="content"><tr><td align="left" valign="top" width="50%">
+<a target="_blank" href="Baking/cr1.jpg"><img class="b" src="Baking/cr1.jpg"></a>
+</td>
+<td align="left" valign="top" width="50%">
+<a target="_blank" href="Baking/cr2.jpg"><img class="b" src="Baking/cr2.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr3.jpg"><img class="b" src="Baking/cr3.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/cr5.jpg"><img class="b" src="Baking/cr5.jpg"></a>
+</td></tr><tr>
+<td align="left" valign="top" colspan="2">
+<a target="_blank" href="Baking/cr6.jpg"><img class="b" src="Baking/cr6.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<table><tr><td>
+<div id="notlk3"><b>Baking</b></div>
+</td>
+</tr></table>
+
+
+<table class="content">
+<tr rowspan="3"><td width="50%" align="center" valign="top">
+<a target="_blank" href="Baking/cc1.jpg"><img class="a" src="Baking/cc1.jpg"></a></td><td align="center" valign="top">
+<a target="_blank" href="Baking/cc2.jpg"><img class="b" src="Baking/cc2.jpg"></a></td></tr></table>
+
+
+<table class="content">
+<tr rowspan="3"><td align="left" valign="top" width="50%">
+<a target="_blank" href="Baking/cc3.jpg"><img class="b" src="Baking/cc3.jpg"></a></td><td align="left" valign="top">
+<a target="_blank" href="Baking/cc4.jpg"><img class="b" src="Baking/cc4.jpg"></a>
+</td></tr>
+</table>
+
+
+<table class="twocontent"><tr><td align="left" valign="top">
+<a target="_blank" href="Baking/b.jpg"><img class="b" src="Baking/b.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/bg.jpg"><img class="b" src="Baking/bg.jpg"></a>
+</td>
+<td align="left" valign="top">
+<a target="_blank" href="Baking/yr.jpg"><img class="b" src="Baking/yr.jpg"></a>
+</td></tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+</td></tr></table>
+</center></div>
+
+
+<table class="header"><tr><td>
+
+
+<table><tr><td>
+<div id="notlk"><center>This website was proudly created without the use of a website builder or web editing software.</center></div>
+</td>
+</tr></table>
+</td></tr></table>
+
+
+
+</div>
+</center>
+</body>
+</html>

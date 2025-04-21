@@ -1,0 +1,473 @@
+<html>
+<title>Aaron Pearson</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+body {
+background-color: #f5f5f5;
+font-family: sans-serif;
+}
+
+div#thispage {
+max-width: 1000px;
+}
+
+div#name {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 60px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#name:hover {
+
+}
+
+div#nametwo {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 30px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#nametwo:hover {
+
+}
+
+div#notlk {
+color: black;
+background-color: #;
+margin-top: px;
+font-size: 12px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 17px;
+max-width: px;
+}
+
+div#notlk2 {
+color: #ffffff;
+background-color: #000000;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#notlk6 {
+color: #ffffff;
+background-color: #333333;
+margin-top: -3px;
+font-size: 13px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#notlk3 {
+color: #ffffff;
+background-color: #000000;
+margin-top: 20px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk {
+color: black;
+background-color: #b9cbda;
+border-top: 1px solid #b9cbda;
+border-left: 1px solid #b9cbda;
+border-right: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkactive {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk:hover {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+}
+
+div#lkone {
+color: black;
+background-color: #b9cbda;
+border: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkoneactive {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+}
+
+div#lkone:hover {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+-webkit-transition: .4s ease-in-out;
+transition: .4s ease-in-out;
+}
+
+div#content {
+margin-top: 0px;
+}
+
+img {
+border-radius: 10px;
+
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .1s ease-in-out;
+	transition: .1s ease-in-out;
+}
+
+img.a {
+width: 100%;
+}
+
+img.b {
+width: 100%;
+}
+
+img:hover {
+filter: brightness(105%);
+
+	-webkit-transform: scale(1.02);
+	transform: scale(1.02);
+}
+
+table {
+  border-spacing: 10px;
+  width: 100%;
+}
+
+.header td {
+  padding: 0px;
+}
+
+.content td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+}
+
+.twocontent td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+  width: 33%;
+}
+
+p {
+color: #;
+background-color: #b9cbda;
+margin-top: 0px;
+font-size: px;
+border-radius: 10px;
+
+padding: 10px;
+max-width: px;
+}
+
+/* If the screen size is 810px wide or less, hide the element */
+@media only screen and (max-width: 810px) {
+  div.hide_on_phone {
+    display: none;
+  }
+}
+
+/* If the screen size is 811px or more, hide the element */
+@media only screen and (min-width: 811px) {
+  div.hide_on_computer {
+    display: none;
+  }
+}
+</style>
+</head>
+<body>
+<center>
+<div id="thispage">
+
+
+
+
+
+
+
+
+
+<table class="header"><tr><td>
+
+<div class="hide_on_phone">
+<table><tr><td>
+<div id="name"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_computer">
+<table><tr><td>
+<div id="nametwo"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_phone">
+<table><tr>
+<td>
+<a style="text-decoration: none;" href="index.html"><div id="lk"><center>Home</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="social.html"><div id="lk"><center>Social</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="video.html"><div id="lk"><center>Video</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="photography.html"><div id="lk"><center>Photography</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="pdf.html"><div id="lk"><center>PDF</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="web.html"><div id="lkactive"><center>Web</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="excel.html"><div id="lk"><center>Excel</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="misc.html"><div id="lk"><center>Misc.</center></div></a>
+</td>
+</tr></table>
+</div>
+
+
+
+<div class="hide_on_computer"><table><tr><td>
+<a style="text-decoration: none;" href="index.html"><div id="lkone"><center>Home</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="social.html"><div id="lkone"><center>Social</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="video.html"><div id="lkone"><center>Video</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="photography.html"><div id="lkone"><center>Photography</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="pdf.html"><div id="lkone"><center>PDF</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="web.html"><div id="lkoneactive"><center>Web</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="excel.html"><div id="lkone"><center>Excel</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="misc.html"><div id="lkone"><center>Misc.</center></div></a>
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content"><center>
+<table><tr><td>
+
+
+<!--table class="content">
+<tr rowspan="3"><td align="center"><p>Before Photo Restoration</p>
+<a target="_blank" href="Photoshop/1 Photo Restore - Old.jpg"><img class="a" src="Photoshop/1 Photo Restore - Old.jpg"></a></td><td align="center"><p>After Photo Restoration</p>
+<a target="_blank" href="Photoshop/2 Photo Restore - New.jpg"><img class="b" src="Photoshop/2 Photo Restore - New.jpg"></a></td></tr></table>
+
+
+<table class="content">
+<tr rowspan="3"><td align="center"><p>Before (Current)</p>
+<a target="_blank" href="Photoshop/6 House - Old.jpg"><img class="a" src="Photoshop/6 House - Old.jpg"></a></td><td align="center"><p>After (Concept)</p>
+<a target="_blank" href="Photoshop/7 House - New.jpg"><img class="b" src="Photoshop/7 House - New.jpg"></a></td></tr></table>-->
+
+
+<table><tr><td>
+<div id="notlk2"><b>Web Update Screen Captures</b></div>
+</td>
+</tr></table>
+
+<div class="hide_on_phone">
+<table class="content">
+<tr rowspan="3"><td align="center" valign="top"><p>Before</p>
+<a target="_blank" href="Web Design/1 Old Application Appearance.png"><img class="a" src="Web Design/1 Old Application Appearance.png"></a></td><td align="center" valign="top"><p>After</p>
+<a target="_blank" href="Web Design/2 New Application Appearance.png"><img class="b" src="Web Design/2 New Application Appearance.png"></a></td></tr></table>
+
+<table class="content">
+<tr rowspan="3"><td align="center" valign="top"><p>Before</p>
+<a target="_blank" href="Web Design/old portal.jpg"><img class="a" src="Web Design/old portal.jpg"></a></td><td align="center" valign="top"><p>After</p>
+<a target="_blank" href="Web Design/new portal.jpg"><img class="b" src="Web Design/new portal.jpg"></a></td></tr></table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="content">
+<tr rowspan="3"><td align="center" valign="top"><p>Before</p>
+<a target="_blank" href="Web Design/1 Old Application Appearance.png"><img class="a" src="Web Design/1 Old Application Appearance.png"></a>
+<br><br><br><br>
+<p>After</p>
+<a target="_blank" href="Web Design/2 New Application Appearance.png"><img class="b" src="Web Design/2 New Application Appearance.png"></a></td></tr></table>
+
+<table class="content">
+<tr rowspan="3"><td align="center" valign="top"><p>Before</p>
+<a target="_blank" href="Web Design/old portal.jpg"><img class="a" src="Web Design/old portal.jpg"></a>
+<br><br><br><br>
+<p>After</p>
+<a target="_blank" href="Web Design/new portal.jpg"><img class="b" src="Web Design/new portal.jpg"></a></td></tr></table>
+</div>
+
+
+
+<table><tr><td>
+<div id="notlk3"><b>Click Screen Captures to Launch Clickable Website Designs</b></div>
+</td>
+</tr></table>
+
+
+<table><tr><td>
+<div id="notlk6">DISCLAIMER: THESE WEBSITE DESIGNS ARE FROM MANY YEARS AGO, AND DO NOT APPROPRIATELY REPRESENT MY CURRENT LEVEL OF PROFESSIONALISM. THESE WEBSITE DESIGNS ARE BEING PRESENTED AS A REPRESENTATION OF MY CREATIVE ABILITIES ONLY, AND THE CONTENT THEREIN DOES NOT REFLECT MY LIKENESS.</div>
+</td>
+</tr></table>
+
+<div class="hide_on_phone">
+<table class="twocontent"><tr><td align="center" valign="top">
+<a target="_blank" href="Web Design/1 Aim Ten/index.html"><img class="b" src="Web Design/aimten.jpg"></a>
+</td>
+<td align="center" valign="top">
+<a target="_blank" href="Web Design/2 Insurance James/index.html"><img class="b" src="Web Design/ij.jpg"></a>
+</td>
+<td align="center" valign="top">
+<a target="_blank" href="Web Design/4 Pizza King/index.html"><img class="b" src="Web Design/pk.jpg"></a>
+</td></tr>
+</table>
+
+<table class="twocontent"><tr><td align="center" valign="top">
+<a target="_blank" href="Web Design/5 Slider Shanty/index.html"><img class="b" src="Web Design/ss.jpg"></a>
+</td>
+<td align="center" valign="top">
+<a target="_blank" href="Web Design/3 Northstar Novelties/index.html"><img class="b" src="Web Design/nn.jpg"></a>
+</td>
+<td align="center" valign="top">
+<a target="_blank" href="Web Design/6 Supracentric/index.html"><img class="b" src="Web Design/sup.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="twocontent"><tr><td align="center" valign="top">
+<a target="_blank" href="Web Design/1 Aim Ten/index.html"><img class="b" src="Web Design/aimten.jpg"></a>
+<br><br><br><br>
+<a target="_blank" href="Web Design/2 Insurance James/index.html"><img class="b" src="Web Design/ij.jpg"></a>
+<br><br><br><br>
+<a target="_blank" href="Web Design/4 Pizza King/index.html"><img class="b" src="Web Design/pk.jpg"></a>
+<br><br><br><br>
+<a target="_blank" href="Web Design/5 Slider Shanty/index.html"><img class="b" src="Web Design/ss.jpg"></a>
+<br><br><br><br>
+<a target="_blank" href="Web Design/3 Northstar Novelties/index.html"><img class="b" src="Web Design/nn.jpg"></a>
+<br><br><br><br>
+<a target="_blank" href="Web Design/6 Supracentric/index.html"><img class="b" src="Web Design/sup.jpg"></a>
+</td></tr>
+</table>
+</div>
+
+
+
+
+
+
+</td></tr></table>
+</center></div>
+
+
+<table class="header"><tr><td>
+
+
+<table><tr><td>
+<div id="notlk"><center>This website was proudly created without the use of a website builder or web editing software.</center></div>
+</td>
+</tr></table>
+</td></tr></table>
+
+
+
+</div>
+</center>
+</body>
+</html>

@@ -1,0 +1,443 @@
+<html>
+<title>Aaron Pearson</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+
+
+
+body {
+background-color: #f5f5f5;
+font-family: sans-serif;
+}
+
+div#thispage {
+max-width: 1000px;
+}
+
+div#name {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 60px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#name:hover {
+
+}
+
+div#nametwo {
+color: black;
+background-color: #b9cbda;
+margin-top: 5px;
+font-size: 30px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: 1000px;
+}
+
+div#nametwo:hover {
+
+}
+
+div#notlk {
+color: black;
+background-color: #;
+margin-top: px;
+font-size: 12px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 17px;
+max-width: px;
+}
+
+div#notlk2 {
+color: #ffffff;
+background-color: #000000;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#notlk6 {
+color: #ffffff;
+background-color: #333333;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#notlk3 {
+color: #ffffff;
+background-color: #000000;
+margin-top: 20px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk {
+color: black;
+background-color: #b9cbda;
+border-top: 1px solid #b9cbda;
+border-left: 1px solid #b9cbda;
+border-right: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkactive {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lk:hover {
+color: black;
+background-color: #f5f5f5;
+border-top: 1px solid #d3d3d3;
+border-left: 1px solid #d3d3d3;
+border-right: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+border-radius: 10px 10px 0px 0px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+}
+
+
+
+
+
+div#lkone {
+color: black;
+background-color: #b9cbda;
+border: 1px solid #b9cbda;
+margin-top: px;
+font-size: px;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+padding: 10px;
+max-width: px;
+}
+
+div#lkoneactive {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+border-radius: 10px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.1), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+}
+
+div#lkone:hover {
+color: black;
+background-color: #f5f5f5;
+border: 1px solid #d3d3d3;
+margin-top: px;
+font-size: px;
+padding: 10px;
+max-width: px;
+-webkit-transition: .4s ease-in-out;
+transition: .4s ease-in-out;
+}
+
+
+
+
+
+div#content {
+margin-top: 0px;
+    opacity: 0;
+  transition: 3s opacity;
+}
+
+img.a {
+width: 100%;
+}
+
+img.b {
+width: 100%;
+border-radius: 10px;
+}
+
+table {
+  border-spacing: 10px;
+  width: 100%;
+}
+
+.header td {
+  padding: 0px;
+}
+
+.content td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+}
+
+.twocontent td {
+  border: px solid;
+  border-color: #;
+  border-radius: 10px;
+  padding: 16px;
+  spacing: 20px;
+box-shadow: 0 -8px 8px 0 rgba(0, 0, 0, 0.15), 0 0px 10px 0 rgba(0, 0, 0, 0.005);
+  background-color: #f5f5f5;
+  width: 33%;
+}
+
+p {
+color: #;
+background-color: #b9cbda;
+margin-top: 0px;
+font-size: px;
+border-radius: 10px;
+
+padding: 10px;
+max-width: px;
+}
+
+p.text {
+color: #;
+background-color: #e1e6eb;
+margin-top: 0px;
+font-size: px;
+border-radius: 10px;
+
+padding: 10px;
+max-width: px;
+}
+
+div.onelink {
+width: 150px;
+}
+
+
+/* If the screen size is 810px wide or less, hide the element */
+@media only screen and (max-width: 810px) {
+  div.hide_on_phone {
+    display: none;
+  }
+}
+
+/* If the screen size is 811px or more, hide the element */
+@media only screen and (min-width: 811px) {
+  div.hide_on_computer {
+    display: none;
+  }
+}
+
+#fadeout {
+  opacity: 0;
+  transition: 4s opacity;
+}
+
+</style>
+</head>
+<body>
+<center>
+
+<div id="thispage">
+
+
+
+<table class="header"><tr><td>
+
+<div class="hide_on_phone">
+<table><tr><td>
+<div id="name"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_computer">
+<table><tr><td>
+<div id="nametwo"><center>Aaron Pearson</center></div>
+</td></tr></table>
+</div>
+
+<div class="hide_on_phone">
+<table><tr>
+<td>
+<a style="text-decoration: none;" href="index.html"><div id="lkactive"><center>Home</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="social.html"><div id="lk"><center>Social</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="video.html"><div id="lk"><center>Video</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="photography.html"><div id="lk"><center>Photography</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="pdf.html"><div id="lk"><center>PDF</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="web.html"><div id="lk"><center>Web</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="excel.html"><div id="lk"><center>Excel</center></div></a>
+</td>
+<td>
+<a style="text-decoration: none;" href="misc.html"><div id="lk"><center>Misc.</center></div></a>
+</td>
+</tr></table>
+</div>
+
+
+
+<div class="hide_on_computer"><table><tr><td>
+<a style="text-decoration: none;" href="index.html"><div id="lkoneactive"><center>Home</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="social.html"><div id="lkone"><center>Social</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="video.html"><div id="lkone"><center>Video</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="photography.html"><div id="lkone"><center>Photography</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="pdf.html"><div id="lkone"><center>PDF</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="web.html"><div id="lkone"><center>Web</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="excel.html"><div id="lkone"><center>Excel</center></div></a>
+<br/>
+<a style="text-decoration: none;" href="misc.html"><div id="lkone"><center>Misc.</center></div></a>
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+
+
+
+
+
+<div id="content"><center>
+<table><tr><td>
+
+
+<!--table class="content">
+<tr rowspan="3"><td align="center"><p>Before Photo Restoration</p>
+<a target="_blank" href="Photoshop/1 Photo Restore - Old.jpg"><img class="a" src="Photoshop/1 Photo Restore - Old.jpg"></a></td><td align="center"><p>After Photo Restoration</p>
+<a target="_blank" href="Photoshop/2 Photo Restore - New.jpg"><img class="b" src="Photoshop/2 Photo Restore - New.jpg"></a></td></tr></table>
+
+
+<table class="content">
+<tr rowspan="3"><td align="center"><p>Before (Current)</p>
+<a target="_blank" href="Photoshop/6 House - Old.jpg"><img class="a" src="Photoshop/6 House - Old.jpg"></a></td><td align="center"><p>After (Concept)</p>
+<a target="_blank" href="Photoshop/7 House - New.jpg"><img class="b" src="Photoshop/7 House - New.jpg"></a></td></tr></table>-->
+
+
+<!--<table><tr><td>
+<div id="notlk2"><b>Web Update Screen Captures</b></div>
+</td>
+</tr></table>-->
+
+
+
+
+
+
+<div class="hide_on_phone">
+<table class="content">
+<tr rowspan="3"><td align="left" valign="top" width="50%"><p><b>Hi. I'm Aaron.</b></p>
+
+<p class="text">I am a strategist, creator, and innovator. I am proficient in content development, digital engagement, videography, post-production editing, graphic design, photography, PDF design, data analysis, HTML, CSS, SQL, and spreadsheeting. I am a leader, a team player, and a collaborator. I have cultivated a proficiency in data analysis by leveraging my college education, work experience, and passion for problem-solving and creating efficiencies. My work follows an Agile approach, focusing on the end-user. I demonstrate ingenuity in everything I do – from concept to finished product – from planning through review.</p>
+
+<p class="text">I am currently the Slate CRM Administrator for the Graduate Students and Postdoctoral Scholars office at Purdue University. In this position, my primary responsibilities include implementation of visual and technical updates to the graduate application and data integration with other systems, including Salesforce, CAS, and ETS. I am continuously updating processes to create efficiencies. I also design training documents, videos, and modules – and conduct training. I hold an associate’s degree and a bachelor’s degree in business administration, as well as a master’s degree in instructional design and technology.</p>
+
+<div class="onelink"><a style="text-decoration: none;" href="contact.html"><div id="lkone"><center><b>Contact</b></center></div></a></div>
+
+</td><td align="center" valign="top">
+<img class="b" src="new_portfolio.png"></td></tr></table>
+</div>
+
+
+
+<div class="hide_on_computer">
+<table class="content">
+<tr rowspan="3"><td align="left" valign="top" width="50%"><p><b>Hi. I'm Aaron.</b></p>
+
+<img class="b" src="new_portfolio.png"></br></br>
+
+<p class="text">I am a creator and an innovator. I am proficient in pre-production, videography, post-production editing, graphic design, photography, photo editing, PDF design, data analysis, HTML, CSS, SQL, and spreadsheeting. I am a leader and also a team player and collaborator. I have cultivated a proficiency in data analysis by leveraging my business degrees, work experience, and passion for problem-solving and creating efficiencies. My work follows a minimalistic approach, focusing on the end-user and what is best and easiest for them. I demonstrate ingenuity in everything I do - from concept to finished product - from producing plans to producing results.</p>
+
+<p class="text">I am currently the Senior Marketng and Public Relations Administrator for the Purdue Graduate School. In this position my primary responsibility is social media management, which encompasses graphic design and video production. I design graphics for social media and print. I also produce videos from concept through post-production, including motion graphic work. I hold an associate and bachelor's degree in business administration and a master's degree in instructional design and technology.</p>
+
+<div class="onelink"><a style="text-decoration: none;" href="contact.html"><div id="lkone"><center><b>Contact</b></center></div></a></div>
+
+</td></tr></table>
+</div>
+
+
+
+
+
+
+
+</td></tr></table>
+</center></div>
+
+
+<table class="header"><tr><td>
+
+
+<table><tr><td>
+<div id="notlk"><center>This website was proudly created without the use of a website builder or web editing software.</center></div>
+</td>
+</tr></table>
+</td></tr></table>
+
+
+
+</div>
+</center>
+<script>
+
+window.onload = function() {
+  window.setTimeout(content, 100); //8 seconds
+}
+
+function content() {
+  document.getElementById('content').style.opacity = '100';
+}
+
+</script>
+</body>
+</html>
